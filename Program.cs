@@ -1,6 +1,6 @@
 public class Car
 {
-    public string Name {get;}
+    public string Name {get; set;}
 }
 
 public class Person
