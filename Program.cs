@@ -4,6 +4,16 @@ public class Car
     public int Year {get;}
 }
 
+public class Lala
+{
+
+}
+
+public class Krolik
+{
+    
+}
+
 public class Person
 {
 
